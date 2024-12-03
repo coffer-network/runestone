@@ -1,4 +1,4 @@
-module github.com/studyzy/runestone
+module github.com/coffer-network/runestone
 
 go 1.22
 
